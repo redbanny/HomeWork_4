@@ -1,0 +1,15 @@
+C:\Users\GAvakov\Source\repos\HomeWork_4\bin\Debug\net6.0\HomeWork_4.exe
+C:\Users\GAvakov\Source\repos\HomeWork_4\bin\Debug\net6.0\HomeWork_4.deps.json
+C:\Users\GAvakov\Source\repos\HomeWork_4\bin\Debug\net6.0\HomeWork_4.runtimeconfig.json
+C:\Users\GAvakov\Source\repos\HomeWork_4\bin\Debug\net6.0\HomeWork_4.dll
+C:\Users\GAvakov\Source\repos\HomeWork_4\bin\Debug\net6.0\HomeWork_4.pdb
+C:\Users\GAvakov\Source\repos\HomeWork_4\obj\Debug\net6.0\HomeWork_4.csproj.AssemblyReference.cache
+C:\Users\GAvakov\Source\repos\HomeWork_4\obj\Debug\net6.0\HomeWork_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAvakov\Source\repos\HomeWork_4\obj\Debug\net6.0\HomeWork_4.AssemblyInfoInputs.cache
+C:\Users\GAvakov\Source\repos\HomeWork_4\obj\Debug\net6.0\HomeWork_4.AssemblyInfo.cs
+C:\Users\GAvakov\Source\repos\HomeWork_4\obj\Debug\net6.0\HomeWork_4.csproj.CoreCompileInputs.cache
+C:\Users\GAvakov\Source\repos\HomeWork_4\obj\Debug\net6.0\HomeWork_4.dll
+C:\Users\GAvakov\Source\repos\HomeWork_4\obj\Debug\net6.0\refint\HomeWork_4.dll
+C:\Users\GAvakov\Source\repos\HomeWork_4\obj\Debug\net6.0\HomeWork_4.pdb
+C:\Users\GAvakov\Source\repos\HomeWork_4\obj\Debug\net6.0\HomeWork_4.genruntimeconfig.cache
+C:\Users\GAvakov\Source\repos\HomeWork_4\obj\Debug\net6.0\ref\HomeWork_4.dll
